@@ -3,7 +3,8 @@ package main
 import "fmt"
 
 //START OMIT
-func main() { // HL12
+func main() {
 	fmt.Println("Hello world!") // HL
-} // HL12
+}
+
 //END OMIT
