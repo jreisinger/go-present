@@ -18,6 +18,10 @@ How do you like _italic_?
 `Program` `Font`
 _A_lot_of_italic_text_
 
+* Links
+.link https://pkg.go.dev/golang.org/x/tools/present package present
+.link https://pkg.go.dev/golang.org/x/tools/present
+
 * Images
 .image gophers.jpg
 .image gophers.jpg 100 250
