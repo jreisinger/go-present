@@ -1,0 +1,31 @@
+Title of presentation
+1 January 1970
+
+Jane Doe
+jane.doe@example.org
+
+* Hello World
+I'm a slide
+
+* Bullet Points
+- First bullet point
+- One more
+- Last one!
+
+* Format your Slides
+Let's try *bold*.
+How do you like _italic_?
+`Program` `Font`
+_A_lot_of_italic_text_
+
+* Images
+.image gophers.jpg
+.image gophers.jpg 100 250
+
+* Display and highlight code
+.code hello.go
+Display Partial code
+.code hello.go /^//START/,/^//END/ HL12
+
+* Run your Go code
+.play hello.go
