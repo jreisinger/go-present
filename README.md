@@ -8,9 +8,11 @@ go mod init github.com/jreisinger/go-present
 go get -u golang.org/x/tools/present
 present
 git init
+git add .
+git commit -m "genesis"
 ```
 
-Visit at https://talks.godoc.org/github.com/jreisinger/go-present/presnetation.slide or run locally:
+Visit at https://talks.godoc.org/github.com/jreisinger/go-present/presentation.slide or run locally:
 
 ```
 go get -u golang.org/x/tools/present
