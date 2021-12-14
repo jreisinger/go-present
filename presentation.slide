@@ -1,36 +1,51 @@
-Title of presentation
-1 January 1970
+# Title of document
+Subtitle of document
+15:04 2 Jan 2006
+Tags: foo, bar, baz
+Summary: This is a great document you want to read.
+OldURL: former-path-for-this-doc
 
-Jane Doe
-jane.doe@example.org
+Author Name
+Job title, Company
+joe@example.com
+https://url/
+@twitter_name
 
-* Hello world
+## Hello world
+
 I'm a slide
 
-* Bullet points
+## Bullet points
+
 - First bullet point
 - One more
 - Last one!
 
-* Format your slides
+## Format your slides
+
 Let's try *bold*.
 How do you like _italic_?
 `Program` `Font`
 _A_lot_of_italic_text_
 
-* Links
+## Links
+
 .link https://pkg.go.dev/golang.org/x/tools/present package present
 .link https://pkg.go.dev/golang.org/x/tools/present
 
-* Images
+## Images
+
 .image gophers.jpg
 .image gophers.jpg 100 250
 
-* Display and highlight code
+## Display and highlight code
+
 .code hello.go
 
-* Display Partial code
+## Display Partial code
+
 .code hello.go /START OMIT/,/END OMIT/
 
-* Run your Go code
+## Run your Go code
+
 .play hello.go
