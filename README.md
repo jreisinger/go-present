@@ -11,6 +11,7 @@ Access online:
 
 * https://talks.godoc.org/github.com/jreisinger/go-present/presentation.slide
 * https://talks.godoc.org/github.com/jreisinger/go-present/presentation2.slide
+* https://talks.godoc.org/github.com/jreisinger/go-present/presentation.article
 
 Syntax:
 
