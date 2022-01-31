@@ -3,7 +3,8 @@
 Run locally:
 
 ```
-go install golang.org/x/tools/cmd/present@latest
+go mod init github.com/jreisinger/go-present
+go get -d golang.org/x/tools/cmd/present
 present
 ```
 
